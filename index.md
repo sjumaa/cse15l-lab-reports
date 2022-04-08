@@ -16,6 +16,6 @@ To sleep:
 Welcome to CSE 15L
 ---
 
-`Hope you like the class` with backticks	 
+`Hope you like the class` 
 [Here is the link for the class](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home)
 
