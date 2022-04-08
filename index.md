@@ -1,3 +1,7 @@
+> THIS IS CSE 15L
+> LEARNING WITH GITHUB
+
+
 # Hello
 ## How are you
 
@@ -13,6 +17,10 @@ To sleep:
 
 
 *My name is Seba Jumaa*
+Favorite foods are:
+* Sushi
+* icecream
+* pizza
 
 Welcome to CSE 15L
 ---
