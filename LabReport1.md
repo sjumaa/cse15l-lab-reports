@@ -16,6 +16,16 @@
 3. Begin experimenting wiht some terminal commands, here is an example of what I did:
 ![alt text](<img width="1440" alt="Screen Shot 2022-04-01 at 2 37 57 PM" src="https://user-images.githubusercontent.com/103288210/162635865-de8947e6-f135-48e9-812c-476143f8690c.png">
 )
+4. To move files over computers, use the command `scp`
+  - Create a filename.java
+  - Place whatever code you want to run in the body
+  - Run the file on the terminal using java and javac
+  - Run the following code onto your termianl `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/`, again by replacing the zz with your account specific letters.`
+  - Enter your password
+  - Login to your course account using the ssh command as follows: ssh cs15lsp22zz@ieng6.ucsd.edu
+  - This is what your terminal should look like if done successfully:
+  ![Press to view](im<img width="1440" alt="Screen Shot 2022-04-01 at 2 37 57 PM" src="https://user-images.githubusercontent.com/103288210/162636168-8720b3e8-6b94-4e27-be12-34418e08afe4.png">
+age.jpg)
   
   
 
