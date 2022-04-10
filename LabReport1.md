@@ -26,6 +26,15 @@
   - This is what your terminal should look like if done successfully:
   ![Press to view](im<img width="1440" alt="Screen Shot 2022-04-01 at 2 37 57 PM" src="https://user-images.githubusercontent.com/103288210/162636168-8720b3e8-6b94-4e27-be12-34418e08afe4.png">
 age.jpg)
+5. Set an SSH key, to avoid entering password every time
+  - On your computer type `ssh-keygen`, and wait for public key to generate
+  ![It will look like this](<img width="700" alt="Screen Shot 2022-04-10 at 12 31 58 PM" src="https://user-images.githubusercontent.com/103288210/162636499-5bd66a69-983d-4801-a241-6e9b6d8b6b11.png">)
+  - to copy ssh key, type `ssh cs15lsp22zz@ieng6.ucsd.edu`
+  - Follow the following on the screen ![Press](<img width="803" alt="Screen Shot 2022-04-10 at 12 38 17 PM" src="https://user-images.githubusercontent.com/103288210/162636702-1675b569-8187-4964-96be-8272ccb6ce7b.png">)
+  - Now try logging into your account again, and observe!
+  ![No passowrd was needed!](<img width="550" alt="Screen Shot 2022-04-10 at 12 40 15 PM" src="https://user-images.githubusercontent.com/103288210/162636760-d2e15179-43ba-4f17-8a1e-9551d18c6e68.png">
+)
+
   
   
 
