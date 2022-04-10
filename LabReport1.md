@@ -32,8 +32,8 @@ age.jpg)
   - to copy ssh key, type `ssh cs15lsp22zz@ieng6.ucsd.edu`
   - Follow the following on the screen ![Press](<img width="803" alt="Screen Shot 2022-04-10 at 12 38 17 PM" src="https://user-images.githubusercontent.com/103288210/162636702-1675b569-8187-4964-96be-8272ccb6ce7b.png">)
   - Now try logging into your account again, and observe!
-  ![No passowrd was needed!](<img width="550" alt="Screen Shot 2022-04-10 at 12 40 15 PM" src="https://user-images.githubusercontent.com/103288210/162636760-d2e15179-43ba-4f17-8a1e-9551d18c6e68.png">
-)
+  ![No passowrd was needed!](<img width="687" alt="Screen Shot 2022-04-10 at 12 41 02 PM" src="https://user-images.githubusercontent.com/103288210/162636779-cf2db3bd-28f2-4457-a98a-8b15201efa05.png">)
+
 
   
   
